@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rubic.inc.tw/sitemap.xml
+Sitemap: https://rubik.inc.tw/sitemap.xml
